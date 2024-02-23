@@ -1,6 +1,6 @@
 # SVG-Logomaker
 
-![License Badge](https://img.shields.io/badge/license-None-brightgreen)
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 
@@ -11,7 +11,7 @@ A terminal application to create a logo with basic shapes, colors and text.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Demo](#Demo)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -25,11 +25,11 @@ Run node index in terminal to start application. Answer all questions prompted. 
 
 ## License
 
-This project is licensed under the None License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contributing
+## Demo
 
-None
+![Demo](./assets/SVG_DEMO.gif)
 
 ## Tests
 
